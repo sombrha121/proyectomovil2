@@ -1,4 +1,6 @@
 # Welcome to your Expo app 👋
+una cosa mas este codigo se complementa con otro que se llama  API de Personas2   que estaria en mi   repositorio si eso no podra hacer que funciones este codigo :
+https://github.com/sombrha121/-API-de-Personas2#
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
